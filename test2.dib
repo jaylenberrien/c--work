@@ -1,0 +1,21 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
+
+#!csharp
+
+Random dice = new Random();
+int roll = dice.Next(1,7);
+Console.WriteLine(roll);
+
+#!markdown
+
+you can use dotnet run to run code. its not recommended for publishing sites or anything like that. there is a serparate command for that
+
+#!markdown
+
+you kind of use .net like terminal. it has a lot of tools and features that you access through the terminal, it doesn't work the same out of the box as other languages and frameworks that i have used so far  but i feel like i am starting to understand things a lot more. i want to watch people code in c# and i feel like that will help me get a grasp of things even more. on top of all of the things that i have already been doing.
+
+#!csharp
+
+Console.WriteLine("Hello, World!");

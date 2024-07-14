@@ -1,0 +1,5 @@
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\publish\c#-work.exe
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\publish\c#-work.dll
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\publish\c#-work.deps.json
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\publish\c#-work.runtimeconfig.json
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\publish\c#-work.pdb

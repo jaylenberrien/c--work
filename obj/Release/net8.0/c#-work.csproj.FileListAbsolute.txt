@@ -1,0 +1,14 @@
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\c#-work.exe
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\c#-work.deps.json
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\c#-work.runtimeconfig.json
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\c#-work.dll
+C:\Users\Jaylen Berrien\desktop\c#-work\bin\Release\net8.0\c#-work.pdb
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\c#-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\c#-work.AssemblyInfoInputs.cache
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\c#-work.AssemblyInfo.cs
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\c#-work.csproj.CoreCompileInputs.cache
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\c#-work.dll
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\refint\c#-work.dll
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\c#-work.pdb
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\c#-work.genruntimeconfig.cache
+C:\Users\Jaylen Berrien\desktop\c#-work\obj\Release\net8.0\ref\c#-work.dll
